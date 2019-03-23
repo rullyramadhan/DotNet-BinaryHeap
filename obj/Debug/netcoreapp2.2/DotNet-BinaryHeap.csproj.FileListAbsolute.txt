@@ -1,0 +1,11 @@
+D:\Source Code\GitHub\DotNet-BinaryHeap\DotNet-BinaryHeap\bin\Debug\netcoreapp2.2\DotNet-BinaryHeap.deps.json
+D:\Source Code\GitHub\DotNet-BinaryHeap\DotNet-BinaryHeap\bin\Debug\netcoreapp2.2\DotNet-BinaryHeap.runtimeconfig.json
+D:\Source Code\GitHub\DotNet-BinaryHeap\DotNet-BinaryHeap\bin\Debug\netcoreapp2.2\DotNet-BinaryHeap.runtimeconfig.dev.json
+D:\Source Code\GitHub\DotNet-BinaryHeap\DotNet-BinaryHeap\bin\Debug\netcoreapp2.2\DotNet-BinaryHeap.dll
+D:\Source Code\GitHub\DotNet-BinaryHeap\DotNet-BinaryHeap\bin\Debug\netcoreapp2.2\DotNet-BinaryHeap.pdb
+D:\Source Code\GitHub\DotNet-BinaryHeap\DotNet-BinaryHeap\obj\Debug\netcoreapp2.2\DotNet-BinaryHeap.csprojAssemblyReference.cache
+D:\Source Code\GitHub\DotNet-BinaryHeap\DotNet-BinaryHeap\obj\Debug\netcoreapp2.2\DotNet-BinaryHeap.csproj.CoreCompileInputs.cache
+D:\Source Code\GitHub\DotNet-BinaryHeap\DotNet-BinaryHeap\obj\Debug\netcoreapp2.2\DotNet-BinaryHeap.AssemblyInfoInputs.cache
+D:\Source Code\GitHub\DotNet-BinaryHeap\DotNet-BinaryHeap\obj\Debug\netcoreapp2.2\DotNet-BinaryHeap.AssemblyInfo.cs
+D:\Source Code\GitHub\DotNet-BinaryHeap\DotNet-BinaryHeap\obj\Debug\netcoreapp2.2\DotNet-BinaryHeap.dll
+D:\Source Code\GitHub\DotNet-BinaryHeap\DotNet-BinaryHeap\obj\Debug\netcoreapp2.2\DotNet-BinaryHeap.pdb
